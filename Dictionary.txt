@@ -1,0 +1,5 @@
+hello               salom
+apple               olma
+phone               telefon
+orange              apelsin
+computer            kompyuter
